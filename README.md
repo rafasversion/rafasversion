@@ -13,14 +13,14 @@ Me chamo Rafaela Rodrigues, tenho 21 anos e sou de Brasília. Concluí o ensino 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafaversion?color=E91E63&style=for-the-badge&labelColor=fff&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/rafasversion?color=E91E63&style=for-the-badge&labelColor=fff&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/rafasversion?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafasversionn?color=fff&labelColor=E91E63&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rafasversion?color=fff&labelColor=E91E63&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
