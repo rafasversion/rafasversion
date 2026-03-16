@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/a2/ec/4a/a2ec4ae40575c44e2b5c72631378840b.jpg">
+<img src="[https://i.pinimg.com/736x/a2/ec/4a/a2ec4ae40575c44e2b5c72631378840b.jpg](https://postimg.cc/LYjLhqBH)">
 
 
 
@@ -120,14 +120,14 @@ Me chamo Rafaela Rodrigues, tenho 21 anos e sou de Brasília. Concluí o ensino 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rafasversion&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rafasversion&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasversion&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafasversion&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
