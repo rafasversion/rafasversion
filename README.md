@@ -9,7 +9,7 @@
 Me chamo Rafaela Rodrigues, tenho 21 anos e sou de Brasília. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram [codebyela](https://www.instagram.com/codebyela/).
 
 <p align="left">
-    <a href="https://github.com/rafasversion?tab=repositories&sort=stargazers">
+     <a href="https://github.com/rafasversion?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
