@@ -1,26 +1,26 @@
 <img src="https://i.pinimg.com/736x/a2/ec/4a/a2ec4ae40575c44e2b5c72631378840b.jpg">
 
-<img width="10px" src="https://i.pinimg.com/736x/42/94/90/429490bf34e75ac1e0589d468cd4e07b.jpg"/>
+
 
 # Rafaela Rodrigues
 
 **`Desenvolvedora Frontend`**
 
-Me chamo Rafaela Rodrigues, tenho 21 anos e sou de Brasília. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram <img width="20px" src="https://i.pinimg.com/1200x/ee/e6/a4/eee6a4fb959f676b24b5cf02a196fb47.jpg"/> [codebyela](https://www.instagram.com/codebyela/).
+Me chamo Rafaela Rodrigues, tenho 21 anos e sou de Brasília. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram [codebyela](https://www.instagram.com/codebyela/).
 
 <p align="left">
     <a href="https://github.com/rafasversion?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafaversionn?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/rafaversion?color=E91E63&style=for-the-badge&labelColor=fff&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/rafasversion?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafasversio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rafasversionn?color=fff&labelColor=E91E63&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
