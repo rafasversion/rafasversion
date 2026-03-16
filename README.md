@@ -6,7 +6,7 @@
 
 **`Desenvolvedora Frontend`**
 
-Me chamo Rafaela Rodrigues, tenho 21 anos e sou de Brasília. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram [codebyela](https://www.instagram.com/codebyela/).
+Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Informática pelo IFC. Atualmente estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram [codebyela](https://www.instagram.com/codebyela/).
 
 <p align="left">
      <a href="https://github.com/rafasversion?tab=repositories&sort=stargazers">
