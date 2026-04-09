@@ -1,7 +1,6 @@
 <img src="https://i.postimg.cc/59P0rpNd/Whats-App-Image-2026-03-16-at-11-53-42-(2).jpg">
 
 
-
 # Rafaela Rodrigues
 
 **`Desenvolvedora Frontend`**
