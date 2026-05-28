@@ -7,16 +7,25 @@
 
 Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Informática pelo IFC. Atualmente estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram [codebyela](https://www.instagram.com/codebyela/).
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/rafaelardosanjos">
+
+<p align="left"> 
+    
+<a href="https://github.com/rafasversion?tab=repositories&sort=stargazers"> 
+    <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rafasversion?color=FFFFFF&style=for-the-badge&labelColor=E91E63&logo=star&label=estrelas" /> </a> 
+
+<a href="https://github.com/rafasversion?tab=followers"> 
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/rafasversion?color=FFFFFF&labelColor=E91E63&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /> 
+</a> 
+
+<a href="https://www.linkedin.com/in/rafaelardosanjos">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a>
+</a>
 
-    <a href="https://www.instagram.com/codebyela/">
+<a href="https://www.instagram.com/codebyela/">
         <img 
             alt="Instagram" 
             title="Meu Instagram"
@@ -24,15 +33,15 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
         />
     </a>
 
-    <a href="https://eladev.com">
+<a href="https://eladev.com">
         <img 
             alt="Portfólio" 
             title="Meu Portfólio"
             src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-E91E63?style=for-the-badge&logo=globe&logoColor=white"
         />
     </a>
-
-    <a href="LINK_DO_SEU_CV">
+    
+<a href="LINK">
         <img 
             alt="CV" 
             title="Meu Currículo"
