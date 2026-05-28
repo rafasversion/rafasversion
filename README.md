@@ -41,7 +41,7 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
     <img 
         alt="CV" 
         title="Meu Currículo"
-        src="https://custom-icon-badges.demolab.com/badge/CV-E91E63?style=for-the-badge&logo=file&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/CV-white?style=for-the-badge&logo=file&logoColor=E91E63"
     />
 </a>
 </p>
