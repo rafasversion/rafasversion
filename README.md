@@ -121,12 +121,12 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
 
 ### Estatísticas
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rafasversion&theme=radical&hide_border=true" />
 </p>
 
 
-<p align="center">
+<p align="right">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafasversion&theme=radical"
   />
