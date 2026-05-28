@@ -8,18 +8,35 @@
 Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Informática pelo IFC. Atualmente estou cursando Computação na Universidade de Brasília (UnB). Gosto de postar meus estudos de programação no meu instagram [codebyela](https://www.instagram.com/codebyela/).
 
 <p align="left">
-     <a href="https://github.com/rafasversion?tab=repositories&sort=stargazers">
+    <a href="https://www.linkedin.com/in/rafaelardosanjos">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rafasversion?color=FFFFFF&style=for-the-badge&labelColor=E91E63&logo=star&label=estrelas"
+            alt="LinkedIn" 
+            title="Meu LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/rafasversion?tab=followers">
+
+    <a href="https://www.instagram.com/codebyela/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rafasversion?color=FFFFFF&labelColor=E91E63&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Instagram" 
+            title="Meu Instagram"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-E91E63?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+
+    <a href="https://eladev.com">
+        <img 
+            alt="Portfólio" 
+            title="Meu Portfólio"
+            src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-E91E63?style=for-the-badge&logo=globe&logoColor=white"
+        />
+    </a>
+
+    <a href="LINK_DO_SEU_CV">
+        <img 
+            alt="CV" 
+            title="Meu Currículo"
+            src="https://custom-icon-badges.demolab.com/badge/CV-E91E63?style=for-the-badge&logo=file&logoColor=white"
         />
     </a>
 </p>
@@ -121,13 +138,15 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
 
 ### Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafasversion&theme=radical&hide_border=true" />
-</p>
 
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com?user=rafasversion&theme=radical&hide_border=true"
+  />
 
-<p align="right">
-  <img 
+  <img
+    height="180em"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafasversion&theme=radical"
   />
 </p>
