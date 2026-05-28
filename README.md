@@ -18,18 +18,14 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
 </a> 
 
 <a href="https://www.linkedin.com/in/rafaelardosanjos">
-        <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-E91E63?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+    <img alt="LinkedIn" title="Meu LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=E91E63"/>
 </a>
 
 <a href="https://www.instagram.com/codebyela/">
         <img 
             alt="Instagram" 
             title="Meu Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-E91E63?style=for-the-badge&logo=instagram&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=E91E63"
         />
     </a>
 
@@ -37,7 +33,7 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
         <img 
             alt="Portfólio" 
             title="Meu Portfólio"
-            src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-E91E63?style=for-the-badge&logo=globe&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Portf%C3%B3lio-white?style=for-the-badge&logo=globe&logoColor=E91E63"
         />
     </a>
     
@@ -45,7 +41,7 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
         <img 
             alt="CV" 
             title="Meu Currículo"
-            src="https://custom-icon-badges.demolab.com/badge/CV-E91E63?style=for-the-badge&logo=file&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/CV-white?style=for-the-badge&logo=file&logoColor=E91E63"
         />
     </a>
 </p>
@@ -148,14 +144,18 @@ Me chamo Rafaela Rodrigues, sou de Brasília. Sou formada em Técnico em Inform�
 ### Estatísticas
 
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com?user=rafasversion&theme=radical&hide_border=true"
-  />
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com?user=rafasversion&theme=radical&hide_border=true" 
+      />
+    </td>
 
-  <img
-    height="180em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafasversion&theme=radical"
-  />
-</p>
+<td>
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafasversion&theme=radical" 
+      />
+    </td>
+  </tr>
+</table>
